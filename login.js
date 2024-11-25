@@ -1,6 +1,6 @@
 window.onload = function() {
-    const username = 'test';
-    const password = '7357';
+    const username = '7357';
+    const password = 'test';
 
     let inputUsername = prompt('아이디를 입력하세요:');
     let inputPassword = prompt('비밀번호를 입력하세요:');
