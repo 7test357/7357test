@@ -11,10 +11,6 @@ window.onload = function() {
         alert('로그인 실패: 아이디 또는 비밀번호가 잘못되었습니다.');
         window.location.href = 'about:blank';
     }
-
-    document.getElementById('fbButton').addEventListener('click', function() {
-        window.location.href = '/fb/index.html';
-    });
     document.getElementById('igButton').addEventListener('click', function() {
         window.location.href = '/ig/index.html';
     });
