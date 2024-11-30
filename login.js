@@ -12,6 +12,6 @@ window.onload = function() {
         window.location.href = 'about:blank';
     }
     document.getElementById('igButton').addEventListener('click', function() {
-        window.location.href = '/test/index.html';
+        window.location.href = '/index/index.html';
     });
 };
